@@ -1,0 +1,20 @@
+{
+    "name": "[Not] My Fujifilm X100V Classic Negative Film Simulation Recipe",
+    "author": "Ritchie Roesch",
+    "url": "https://fujixweekly.com/2020/06/01/not-my-fujifilm-x100v-classic-negative-film-simulation-recipe/",
+    "film_simulation": "classic neg",
+    "grain_effect_size": "large",
+    "grain_effect_roughness": "weak",
+    "color_chrome_effect": "weak",
+    "color_chrome_fx_blue": "weak",
+    "white_balance_mode": "auto",
+    "white_balance_r": 4,
+    "white_balance_b": -4,
+    "dynamic_range": "dr200",
+    "tone_curve_highlights": 1,
+    "tone_curve_shadows": 0,
+    "color": 3,
+    "sharpness": 0,
+    "noise_reduction": -4,
+    "clarity": 2
+}

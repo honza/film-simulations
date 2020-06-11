@@ -1,0 +1,20 @@
+{
+    "name": "Kodak Portra 400",
+    "author": "Ritchie Roesch",
+    "url": "https://fujixweekly.com/2020/06/10/fujifilm-x100v-film-simulation-kodak-portra-400/",
+    "film_simulation": "classic chrome",
+    "grain_effect_size": "small",
+    "grain_effect_roughness": "strong",
+    "color_chrome_effect": "strong",
+    "color_chrome_fx_blue": "weak",
+    "white_balance_mode": "daylight",
+    "white_balance_r": 3,
+    "white_balance_b": -5,
+    "dynamic_range": "auto",
+    "tone_curve_highlights": -1,
+    "tone_curve_shadows": -2,
+    "color": 2,
+    "sharpness": -2,
+    "noise_reduction": -4,
+    "clarity": 2
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Kodachrome 64",
+    "author": "Ritchie Roesch",
+    "url": "https://fujixweekly.com/2020/05/27/my-fujifilm-x100v-kodachrome-64-film-simulation-recipe/",
+    "film_simulation": "classic chrome",
+    "grain_effect_size": "small",
+    "grain_effect_roughness": "weak",
+    "color_chrome_effect": "strong",
+    "color_chrome_fx_blue": "weak",
+    "white_balance_mode": "daylight",
+    "white_balance_r": 2,
+    "white_balance_b": -5,
+    "dynamic_range": "dr200",
+    "tone_curve_highlights": 0,
+    "tone_curve_shadows": 0,
+    "color": 2,
+    "sharpness": 1,
+    "noise_reduction": -4,
+    "clarity": 3
+}
