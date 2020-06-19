@@ -1,0 +1,20 @@
+{
+    "name": "Tri-X",
+    "author": "Ritchie Roesch",
+    "url": "https://lifeunintended.com/articles/my-favorite-fujifilm-film-simulation-settings/",
+    "film_simulation": "acros",
+    "grain_effect_size": "large",
+    "grain_effect_roughness": "strong",
+    "color_chrome_effect": "strong",
+    "color_chrome_fx_blue": "off",
+    "white_balance_mode": "daylight",
+    "white_balance_r": 9,
+    "white_balance_b": -9,
+    "dynamic_range": "dr200",
+    "tone_curve_highlights": 0,
+    "tone_curve_shadows": 3,
+    "color": 0,
+    "sharpness": 1,
+    "noise_reduction": -4,
+    "clarity": 4
+}
