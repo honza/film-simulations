@@ -15,7 +15,7 @@ Currently available:
 * [Luís Costa Black and White][6] by Luís Costa
 
 [1]: https://fujixweekly.com/2020/06/01/not-my-fujifilm-x100v-classic-negative-film-simulation-recipe/
-[2]: https://lifeunintended.com/articles/my-favorite-fujifilm-film-simulation-settings/
+[2]: https://fujixweekly.com/2020/06/18/fujifilm-x100v-film-simulation-recipe-kodak-tri-x-400/
 [3]: https://fujixweekly.com/2020/05/27/my-fujifilm-x100v-kodachrome-64-film-simulation-recipe/
 [4]: https://fujixweekly.com/2020/06/10/fujifilm-x100v-film-simulation-kodak-portra-400/
 [5]: https://lifeunintended.com/articles/my-favorite-fujifilm-film-simulation-settings/
