@@ -45,12 +45,12 @@ def main():
 
     for f in os.listdir('simulations'):
         simulations.append(
-                json.loads(
-                    open(
-                        os.path.join('simulations', f)
-                    ).read()
-                )
+            json.loads(
+                open(
+                    os.path.join('simulations', f)
+                ).read()
             )
+        )
 
     for simulation in simulations:
         validate(config, simulation)
