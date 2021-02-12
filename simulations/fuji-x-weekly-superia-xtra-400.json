@@ -1,0 +1,20 @@
+{
+    "name": "Superia Xtra 400",
+    "author": "Ritchie Roesch",
+    "url": "https://fujixweekly.com/2020/11/10/fujifilm-x100v-film-simulation-recipe-superia-xtra-400/",
+    "film_simulation": "classic neg",
+    "grain_effect_size": "small",
+    "grain_effect_roughness": "strong",
+    "color_chrome_effect": "off",
+    "color_chrome_fx_blue": "strong",
+    "white_balance_mode": "auto",
+    "white_balance_r": 3,
+    "white_balance_b": -5,
+    "dynamic_range": "dr400",
+    "tone_curve_highlights": 0,
+    "tone_curve_shadows": -1,
+    "color": 4,
+    "sharpness": -1,
+    "noise_reduction": -4,
+    "clarity": -2
+}
