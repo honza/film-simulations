@@ -1,0 +1,20 @@
+{
+    "name": "Zach Mendez - Kodachrome 64",
+    "author": "Zach Mendez",
+    "url": "https://www.youtube.com/watch?v=9rLXZUBnzhM",
+    "film_simulation": "classic chrome",
+    "grain_effect_size": "small",
+    "grain_effect_roughness": "weak",
+    "color_chrome_effect": "strong",
+    "color_chrome_fx_blue": "weak",
+    "white_balance_mode": "auto",
+    "white_balance_r": 2,
+    "white_balance_b": -5,
+    "dynamic_range": "dr200",
+    "tone_curve_highlights": 0,
+    "tone_curve_shadows": 0,
+    "color": 0,
+    "sharpness": 1,
+    "noise_reduction": -4,
+    "clarity": 3
+}
