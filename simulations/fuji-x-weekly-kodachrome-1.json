@@ -1,20 +1,20 @@
 {
-    "name": "Kodak Portra 400 v2",
+    "name": "Kodachrome 1",
     "author": "Ritchie Roesch",
-    "url": "https://fujixweekly.com/2020/12/30/fujifilm-x100v-film-simulation-recipe-kodak-portra-400-v2/",
+    "url": "https://fujixweekly.com/2020/05/27/my-fujifilm-x100v-kodachrome-64-film-simulation-recipe/",
     "film_simulation": "Classic Chrome",
     "grain_effect_size": "Small",
     "grain_effect_roughness": "Strong",
     "color_chrome_effect": "Strong",
     "color_chrome_fx_blue": "Weak",
-    "white_balance_mode": "5200K",
-    "white_balance_r": 1,
-    "white_balance_b": -6,
+    "white_balance_mode": "Auto",
+    "white_balance_r": 2,
+    "white_balance_b": -4,
     "dynamic_range": "400",
-    "tone_curve_highlights": 0,
+    "tone_curve_highlights": 4,
     "tone_curve_shadows": -2,
-    "color": 2,
+    "color": 4,
     "sharpness": -2,
     "noise_reduction": -4,
-    "clarity": -2
+    "clarity": 1
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Luís Costa Color",
+    "name": "Luís Costa Color (Fuji)",
     "author": "Luís Costa",
     "url": "https://lifeunintended.com/articles/my-favorite-fujifilm-film-simulation-settings/",
     "film_simulation": "Classic Negative",
@@ -8,7 +8,7 @@
     "color_chrome_effect": "Off",
     "color_chrome_fx_blue": "Weak",
     "white_balance_mode": "Auto",
-    "white_balance_r": 4,
+    "white_balance_r": -2,
     "white_balance_b": -4,
     "dynamic_range": "200",
     "tone_curve_highlights": 1,

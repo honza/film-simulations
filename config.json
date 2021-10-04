@@ -24,47 +24,47 @@
         "author": null,
         "url": null,
         "film_simulation": [
-            "provia",
-            "velvia",
-            "astia",
-            "classic chrome",
-            "pro neg hi",
-            "pro neg std",
-            "classic neg",
-            "eterna",
-            "acros",
-            "acros-r",
-            "acros-y",
-            "acros-g",
-            "monochrome",
-            "monochrome-r",
-            "monochrome-y",
-            "monochrome-g",
-            "sepia"
+            "Provia",
+            "Velvia",
+            "Astia",
+            "Classic Chrome",
+            "Pro Neg Hi",
+            "Pro Neg Std",
+            "Classic Negative",
+            "Eterna",
+            "Acros",
+            "Acros-r",
+            "Acros-y",
+            "Acros-g",
+            "Monochrome",
+            "Monochrome-r",
+            "Monochrome-y",
+            "Monochrome-g",
+            "Sepia"
         ],
         "grain_effect_size": [
-            "large",
-            "small",
-            "off"
+            "Large",
+            "Small",
+            "Off"
         ],
         "grain_effect_roughness": [
-            "strong",
-            "weak",
-            "off"
+            "Strong",
+            "Weak",
+            "Off"
         ],
         "color_chrome_effect": [
-            "strong",
-            "weak",
-            "off"
+            "Strong",
+            "Weak",
+            "Off"
         ],
         "color_chrome_fx_blue": [
-            "strong",
-            "weak",
-            "off"
+            "Strong",
+            "Weak",
+            "Off"
         ],
         "white_balance_mode": [
-            "auto",
-            "daylight"
+            "Auto",
+            "Daylight"
         ],
         "white_balance_b": [
             -9,
@@ -109,10 +109,10 @@
             9
         ],
         "dynamic_range": [
-            "auto",
-            "dr100",
-            "dr200",
-            "dr400"
+            "Auto",
+            "100",
+            "200",
+            "400"
         ],
         "tone_curve_highlights": [
             -2,
