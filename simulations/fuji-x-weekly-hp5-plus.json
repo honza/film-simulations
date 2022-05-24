@@ -1,0 +1,20 @@
+{
+    "name": "HP5 Plus 400",
+    "author": "Ritchie Roesch",
+    "url": "https://fujixweekly.com/2022/03/23/fujifilm-x-trans-iv-film-simulation-recipe-ilford-hp5-plus-400/",
+    "film_simulation": "Monochrome",
+    "grain_effect_size": "Large",
+    "grain_effect_roughness": "Strong",
+    "color_chrome_effect": "Off",
+    "color_chrome_fx_blue": "Off",
+    "white_balance_mode": "Daylight",
+    "white_balance_r": 1,
+    "white_balance_b": -8,
+    "dynamic_range": "400",
+    "tone_curve_highlights": -1,
+    "tone_curve_shadows": 1,
+    "color": 0,
+    "sharpness": -2,
+    "noise_reduction": -4,
+    "clarity": 0
+}

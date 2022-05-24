@@ -1,0 +1,20 @@
+{
+    "name": "Fujicolor Pro 400H",
+    "author": "Ritchie Roesch",
+    "url": "https://fujixweekly.com/2021/05/16/fujifilm-x100v-x-trans-iv-film-simulation-recipe-fujicolor-pro-400h/",
+    "film_simulation": "Classic Negative",
+    "grain_effect_size": "Small",
+    "grain_effect_roughness": "Strong",
+    "color_chrome_effect": "Strong",
+    "color_chrome_fx_blue": "Weak",
+    "white_balance_mode": "4900K",
+    "white_balance_r": 0,
+    "white_balance_b": -4,
+    "dynamic_range": "400",
+    "tone_curve_highlights": -2,
+    "tone_curve_shadows": 4,
+    "color": 4,
+    "sharpness": -2,
+    "noise_reduction": -4,
+    "clarity": -4
+}

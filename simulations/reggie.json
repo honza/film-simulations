@@ -1,0 +1,20 @@
+{
+    "name": "Reggie Must-Try",
+    "author": "Reggie Ballesteros",
+    "url": "https://www.youtube.com/watch?v=VHK0TiVmbU4",
+    "film_simulation": "Classic Chrome",
+    "grain_effect_size": "Small",
+    "grain_effect_roughness": "Weak",
+    "color_chrome_effect": "Strong",
+    "color_chrome_fx_blue": "Weak",
+    "white_balance_mode": "Auto",
+    "white_balance_r": 2,
+    "white_balance_b": -4,
+    "dynamic_range": "Auto",
+    "tone_curve_highlights": -1,
+    "tone_curve_shadows": -2,
+    "color": 2,
+    "sharpness": -2,
+    "noise_reduction": -4,
+    "clarity": 0
+}

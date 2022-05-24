@@ -1,0 +1,20 @@
+{
+    "name": "Luís Costa Big Negative",
+    "author": "Luís Costa",
+    "url": "https://lifeunintended.com/2021/08/06/the-7-custom-fujifilm-recipes-on-my-camera-right-now/",
+    "film_simulation": "Classic Negative",
+    "grain_effect_size": "Large",
+    "grain_effect_roughness": "Strong",
+    "color_chrome_effect": "Weak",
+    "color_chrome_fx_blue": "Strong",
+    "white_balance_mode": "Auto",
+    "white_balance_r": -2,
+    "white_balance_b": -5,
+    "dynamic_range": "400",
+    "tone_curve_highlights": -2,
+    "tone_curve_shadows": 0,
+    "color": 3,
+    "sharpness": 0,
+    "noise_reduction": -4,
+    "clarity": -3
+}
