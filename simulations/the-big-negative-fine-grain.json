@@ -1,0 +1,20 @@
+{
+    "name": "The Big Negative (Fine Grain)",
+    "author": "The Big Negative",
+    "url": "https://www.youtube.com/watch?v=LBBe8yIZcak",
+    "film_simulation": "Classic Negative",
+    "grain_effect_size": "Off",
+    "grain_effect_roughness": "Off",
+    "color_chrome_effect": "Strong",
+    "color_chrome_fx_blue": "Strong",
+    "white_balance_mode": "Auto",
+    "white_balance_r": -2,
+    "white_balance_b": -5,
+    "dynamic_range": "400",
+    "tone_curve_highlights": -2,
+    "tone_curve_shadows": -2,
+    "color": 3,
+    "sharpness": 0,
+    "noise_reduction": 2,
+    "clarity": 4
+}
